@@ -40,7 +40,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-    ENV.baseUrl = '/burner-project';
+    ENV.baseURL = '/burner-project';
 
   }
 
